@@ -22,3 +22,4 @@ jobs:
         run: |
           git config user.name "NielsHansenPXL" && git config user.email "niels.hansen@student.pxl.be"
           npm run gh-pages-deploy
+          
